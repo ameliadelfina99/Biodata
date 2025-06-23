@@ -19,7 +19,7 @@
 
 Saya adalah seorang developer dan desainer yang berfokus pada titik temu antara **kode yang bersih** dan **desain yang berpusat pada pengguna (user-centered)**. Saya senang membangun aplikasi dari nol—mulai dari tahap riset dan wireframing di Figma, hingga implementasi front-end dengan React.
 
-- 🔭 Saat ini saya sedang mengerjakan **[Nama Proyek Anda]**.
+- 🔭 Saat ini saya sedang berkuliah di **UPN Veteran Jawa Timur**.
 - 🌱 Saya sedang belajar lebih dalam tentang **Data Analyst**.
 - 👯 Saya mencari kolaborasi di proyek.
 - 📫 Hubungi saya di **ameliadelfina99@gmail.com**.
