@@ -1,8 +1,8 @@
-<h1 align="center">Hi there, I'm [Nama Anda] 👋</h1>
+<h1 align="center">Hi there, I'm Amelia Delfina Putri 👋</h1>
 <h3 align="center">A Web Developer who crafts beautiful and functional digital experiences.</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/username-linkedin-anda/" target="_blank">
+  <a href="https://www.linkedin.com/in/amelia-delfina-putri-4b0443282/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.website-portofolio-anda.com/" target="_blank">
@@ -20,9 +20,9 @@
 Saya adalah seorang developer dan desainer yang berfokus pada titik temu antara **kode yang bersih** dan **desain yang berpusat pada pengguna (user-centered)**. Saya senang membangun aplikasi dari nol—mulai dari tahap riset dan wireframing di Figma, hingga implementasi front-end dengan React.
 
 - 🔭 Saat ini saya sedang mengerjakan **[Nama Proyek Anda]**.
-- 🌱 Saya sedang belajar lebih dalam tentang **[Topik yang sedang dipelajari, misal: Animasi Web dengan Framer Motion]**.
-- 👯 Saya mencari kolaborasi di proyek **open-source yang berhubungan dengan desain atau edukasi**.
-- 📫 Hubungi saya di **[email.anda@example.com]**.
+- 🌱 Saya sedang belajar lebih dalam tentang **Data Analyst**.
+- 👯 Saya mencari kolaborasi di proyek.
+- 📫 Hubungi saya di **ameliadelfina99@gmail.com**.
 
 ---
 
